@@ -1,3 +1,4 @@
+# Enable workflow
 name: Build and Release YTMusicUltimate
 on:
   workflow_dispatch:
